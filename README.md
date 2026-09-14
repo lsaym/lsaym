@@ -4,8 +4,6 @@ Desenvolvedor de Software focado no ecossistema Web, com ênfase no desenvolvime
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -19,14 +17,13 @@ Desenvolvedor de Software focado no ecossistema Web, com ênfase no desenvolvime
 
 ---
 
-### 📌 Sobre Mim
 
 * 🎓 Pós-graduando em Desenvolvimento Web.
 * 🎯 Foco contínuo em refatoração de código, modularização e escrita de software limpo.
 
 ---
 
-### 🌐 Onde me encontrar
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-saymon-906950237/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saymon-lucas@hotmail.com)
