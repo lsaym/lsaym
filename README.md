@@ -21,9 +21,7 @@ Desenvolvedor de Software focado no ecossistema Web, com ênfase no desenvolvime
 
 ### 📌 Sobre Mim
 
-* 🔭 Atualmente atuando no desenvolvimento e manutenção de sistemas corporativos em PHP e Laravel.
 * 🎓 Pós-graduando em Desenvolvimento Web.
-* ⚡ Apaixonado por criar interfaces fluidas utilizando **HTMX** integrado a um back-end estruturado.
 * 🎯 Foco contínuo em refatoração de código, modularização e escrita de software limpo.
 
 ---
